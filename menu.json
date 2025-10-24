@@ -1,0 +1,53 @@
+{
+  "cafe_name": "Café Bar 65",
+  "menu_sections": [
+    {
+      "category": "Specialty Coffee & Drinks",
+      "items": [
+        {"name": "Espresso", "description": "Strong Italian-style espresso"},
+        {"name": "Cappuccino", "description": "Classic Italian coffee with steamed milk"},
+        {"name": "Latte Macchiato", "description": "Layered espresso and milk"},
+        {"name": "Filterkaffee", "description": "Fresh brewed filter coffee"},
+        {"name": "Specialty Cocktails", "description": "House-crafted cocktails to enjoy by the fireplace"}
+      ]
+    },
+    {
+      "category": "Galletes (House Specialty)",
+      "description": "French savory crepes offered in multiple delicious variations",
+      "items": [
+        {"name": "Classic Gallete", "description": "Ham and cheese"},
+        {"name": "Mushroom Gallete", "description": "Fresh mushrooms and cheese"},
+        {"name": "Smoked Salmon Gallete", "description": "Smoked salmon with herbs"},
+        {"name": "Goat Cheese Gallete", "description": "Creamy goat cheese with greens"}
+      ]
+    },
+    {
+      "category": "International Classics",
+      "items": [
+        {"name": "Boeuf Stroganoff", "description": "Classic Russian beef in cream sauce"},
+        {"name": "Calf Saltimbocca", "description": "Italian veal with sage and prosciutto"}
+      ]
+    },
+    {
+      "category": "Traditional German Dishes",
+      "items": [
+        {"name": "Homemade Spätzle", "description": "Traditional German egg noodles"},
+        {"name": "Bread Dumplings with Mushrooms", "description": "Classic Bavarian comfort food"}
+      ]
+    },
+    {
+      "category": "Kids Menu",
+      "items": [
+        {"name": "Fish Fingers", "description": "With mashed potatoes"},
+        {"name": "Pasta with Tomato Sauce", "description": "Simple and delicious"}
+      ]
+    },
+    {
+      "category": "Desserts",
+      "items": [
+        {"name": "Crêpes", "description": "Sweet French crepes"},
+        {"name": "Variety of Cakes", "description": "Daily selection of homemade cakes"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "cafe_name": "Café Bar 65",
+  "google_rating": "New/Not Yet Rated",
+  "total_reviews": 0,
+  "tripadvisor_url": "https://www.tripadvisor.com/Restaurant_Review-g187323-d27359521-Reviews-Bar_65-Berlin.html",
+  "description": "A cozy neighborhood café bar in Berlin's Wedding district, featuring international classics, traditional German dishes, live music, and sports broadcasts. Known for their specialty Galletes (French savory crepes), warm fireplace atmosphere, and quality coffee.",
+  "specialties": [
+    "Guter Kaffee (Great Coffee)",
+    "Galletes (French savory crepes)",
+    "International classics (Boeuf Stroganoff, Calf Saltimbocca)",
+    "Traditional German dishes (homemade spaetzle, bread dumplings)",
+    "Live music events",
+    "Sports broadcasts",
+    "Fireplace ambiance"
+  ],
+  "reviews": [
+    {
+      "author": "Local Recommendation",
+      "rating": 5,
+      "text": "Restaurant 65 is a welcoming spot with a cozy fireplace where people of all ages enjoy tasty cocktails and excellent food. The Galletes are particularly noteworthy!",
+      "date": "2025",
+      "source": "Top10Berlin"
+    }
+  ],
+  "atmosphere": "Warm and welcoming neighborhood café with fireplace, perfect for casual dining, drinks, or watching live sports"
+}
